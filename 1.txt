@@ -1,3 +1,3 @@
- Hello.. this is first assignment in Git
+ ITU.. this is first assignment in Git
  
 
