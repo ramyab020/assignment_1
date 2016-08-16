@@ -1,3 +1,7 @@
- ITU.. this is first assignment in Git
+<<<<<<< HEAD
+ ITU1.. this is first assignment in Git
+=======
+ ITU1.. this is first assignment in Git
+>>>>>>> cfc83b7ad1b74362a795a00b4668020455afeb45
  
 
